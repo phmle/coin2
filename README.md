@@ -15,11 +15,15 @@ A simple 2D tile-based game built in C# with Raylib. Walk the player around the 
 
 Run
 in bash: dotnet run
+
 Default map: `maps/valid.txt`
 
 Other maps:
+
 dotnet run -- maps/level1.txt
+
 dotnet run -- maps/level2.txt
+
 dotnet run -- maps/bigmap.txt
 
 
